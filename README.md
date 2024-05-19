@@ -2,4 +2,4 @@
 <h6 align="center">I am a student majoring in Information Engineering who is interested in web development, especially front-end. In this field I am also interested in graphic design and UI/UX. I've taken a lot of online classes.</h6>
 
 
-    <img src="" alt=""  width="250" />
+
